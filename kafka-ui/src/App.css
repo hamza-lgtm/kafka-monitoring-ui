@@ -1,0 +1,29 @@
+body, html {
+  height: 100%;
+}
+
+#root {
+  height: 100%;
+}
+
+.sidebar {
+  height: 100vh;
+  background-color: #f8f9fa;
+  padding-top: 20px;
+}
+
+.container {
+  margin-top: 20px;
+}
+
+h1 {
+  color: #007bff;
+}
+
+ul {
+  cursor: pointer;
+}
+
+ul li:hover {
+  background-color: #f8f9fa;
+}
