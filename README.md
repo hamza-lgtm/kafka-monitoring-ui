@@ -22,7 +22,7 @@ For implementation details, check:
 
 ## Prerequisites
 
-- Java (JDK) 11+ or the version required by the project (the project includes Maven wrapper).
+- Java (JDK) 17+ or the version required by the project (the project includes Maven wrapper).
 - Maven (optional if using the included wrapper).
 - Node.js (16+ recommended) and npm or yarn for the frontend.
 - Access to a running Kafka cluster (bootstrap servers) for end-to-end usage.
